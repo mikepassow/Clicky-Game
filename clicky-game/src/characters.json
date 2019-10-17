@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "name": "Varys",
-        "image": "../imgs/varys.jpg"
+        "name": "Spongebob",
+        "image": "../imgs/spongebob.png"
     },
     {
         "id": 2,
-        "name": "Bran",
-        "image": "../imgs/bran.png"
+        "name": "Patrick",
+        "image": "../imgs/patrick.png"
     },
     {
         "id": 3,
-        "name": "Littlefinger",
-        "image": "../imgs/littlefinger.gif"
+        "name": "Squidward",
+        "image": "../imgs/squidward.png"
     },
     {
         "id": 4,
-        "name": "Jon Snow",
-        "image": "../imgs/jon.jpg"
+        "name": "Sandy Cheeks",
+        "image": "../imgs/sandy.png"
     },
     {
         "id": 5,
