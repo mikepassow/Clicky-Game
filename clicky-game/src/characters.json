@@ -26,28 +26,28 @@
     },
     {
         "id": 6,
-        "name": "Brienne",
-        "image": "../imgs/brienne.jpg"
+        "name": "",
+        "image": "../imgs/.jpg"
     },
     {
         "id": 7,
-        "name": "Jaime",
-        "image": "../imgs/jaime.jpg"
+        "name": "",
+        "image": "../imgs/.jpg"
     },
     {
         "id": 8,
-        "name": "Daenerys",
-        "image": "../imgs/daenarys.jpg"
+        "name": "",
+        "image": "../imgs/.jpg"
     },
     {
         "id": 9,
-        "name": "Lady Melisandre",
-        "image": "../imgs/melisandre.jpg"
+        "name": "",
+        "image": "../imgs/.jpg"
     },
     {
         "id": 10,
-        "name": "Jorah",
-        "image": "../imgs/jorah.jpg"
+        "name": "",
+        "image": "../imgs/.jpg"
     },
     {
         "id": 11,
