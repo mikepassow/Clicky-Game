@@ -51,13 +51,13 @@
     },
     {
         "id": 11,
-        "name": "",
-        "image": "../imgs/sansa.jpg"
+        "name": "Larry the Lobster",
+        "image": "../imgs/larry.jpg"
     },
     {
         "id": 12,
-        "name": "",
-        "image": "../imgs/.jpg"
+        "name": "The flying Dutchman",
+        "image": "../imgs/dutchman.jpg"
     }
 
 ]
