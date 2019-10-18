@@ -1,5 +1,5 @@
 <h1>React Spongebob Clicky Game</h1>
-<a href="https://mikepassow.github.io/Clicky-Game/">Start Game Here </a>
+<a href="https://pure-sands-03769.herokuapp.com/">Deployed on Heroku Here</a>
 
 <h2>About</h2>
 <p>CLICKY-GAME is a memory game built with React.js The goal of the game is simple, using your mouse, CLICK each of the twelve Spongebob character cards in whatever order you chose - the order does not matter, only that you do not click the same card twice!</p>
