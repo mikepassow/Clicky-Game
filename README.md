@@ -14,9 +14,9 @@
 
 <h1>Screenshots of How it Works</h1>
  <div>
- <img src="screenshots/1.png" width="400px"> 
+ <img src="/screenshots/1.png" width="400px"> 
  </div>
 
   <div>
- <img src="screenshots/1.png" width="400px"> 
+ <img src="/screenshots/1.png" width="400px"> 
  </div>
